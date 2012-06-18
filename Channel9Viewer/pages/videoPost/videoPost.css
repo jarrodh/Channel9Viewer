@@ -1,0 +1,55 @@
+﻿.videoPost section[role=main] {
+    margin-left: 120px;
+}
+
+.videoPost section[role=main] h2 {
+        margin-left: 120px;
+        padding-bottom: 20px;
+    }
+
+    .videoPost section[role=main] article {
+        /* Define a multi-column, horizontally scrolling article by default. */
+        column-fill: auto;
+        column-gap: 80px;
+        column-width: 480px;
+        height: calc(100% - 50px);
+        margin-left: 120px;
+        width: 480px;
+
+    }
+
+.win-appbar {
+    background-color: #000;
+    color: #fff;
+}
+
+    .win-command {
+        color: #fff;
+    }
+
+    .win-commandicon {
+        color: #fff;
+    }
+
+    .win-commandimage {
+        color: #fff;
+    }
+
+    .win-commandring {
+        border-bottom-color: #fff;
+        border-top-color: #fff;
+        border-left-color: #fff;
+        border-right-color: #fff;
+    }
+
+button:hover .win-commandring {
+    background-color: rgba(255, 255, 255, 0.13);
+    border-bottom-color: #fff;
+    border-left-color: #fff;
+    border-right-color: #fff;
+    border-top-color: #fff;
+}
+
+    .win-commandlayout {
+        color: #fff;
+    }

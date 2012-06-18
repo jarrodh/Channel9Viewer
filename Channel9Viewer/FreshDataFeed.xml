@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/styles/xslt/rss.xslt"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:c9="http://channel9.msdn.com">
+  <channel>
+    <title>Channel 9</title>
+    <atom:link rel="self" type="application/rss+xml" href="http://channel9.msdn.com/Feeds/RSS"/>
+    <itunes:summary>Channel 9 keeps you up to date with the latest news and behind the scenes info from Microsoft that developers love to keep up with. From LINQ to SilverLight – Watch videos and hear about all the cool technologies coming and the people behind them.</itunes:summary>
+    <itunes:author>Microsoft</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <image>
+      <url>http://mschnlnine.vo.llnwd.net/d1/Dev/App_Themes/C9/images/feedimage.png</url>
+      <title>Channel 9</title>
+      <link>http://channel9.msdn.com/</link>
+    </image>
+    <itunes:image href="http://mschnlnine.vo.llnwd.net/d1/Dev/App_Themes/C9/images/feedimage.png"/>
+    <itunes:category text="Technology"/>
+    <description>Channel 9 keeps you up to date with the latest news and behind the scenes info from Microsoft that developers love to keep up with. From LINQ to SilverLight – Watch videos and hear about all the cool technologies coming and the people behind them.</description>
+    <link>http://channel9.msdn.com/</link>
+    <language>en</language>
+    <pubDate>Sun, 10 Jun 2012 12:13:37 GMT</pubDate>
+    <lastBuildDate>Sun, 10 Jun 2012 12:13:37 GMT</lastBuildDate>
+    <generator>Rev9</generator>
+    <item>
+      <title>Episode 83 - Windows Azure June 2012 Release | Cloud Cover</title>
+      <description><![CDATA[<div>Join&nbsp;<a href="http://ntotten.com">Nate</a>&nbsp;and&nbsp;<a href="http://nickharris.net/">Nick</a>&nbsp;each week as they cover Windows Azure. You can follow and interact with the show at&nbsp;<a href="http://twitter.com/cloudcovershow">@CloudCoverShow</a>.</div><div>&nbsp;</div><p>In this episode Nathan Totten, Nick Harris, and Michael Washam introduce the newest features of the Windows Azure. Michael shows off the new portal and gives a demo of Windows Azure Virtual Machines and the new PowerShell Cmdlets. Nathan demos Windows Azure Web Sites and the CLI tools for OS X. And finally, Nick shows Windows Azure SDK 1.7 and the tools for Visual Studio 2012 as well as some updates with Windows Azure Cloud Services. This is a longer than normal episode, but it contains all kinds of exciting content.</p><p>If you want to skip to specific content you can find what you are looking for at the following times:</p><ul><li>New Portal: 00:01:20 </li><li>Windows Azure Virtual Machines: 00:09:00 </li><li>PowerShell Cmdlets: 00:27:45 </li><li>Windows Azure Web Sites: 00:36:42 </li><li>OS X Command Line Tools: 00:57:36 </li><li>Windows Azure SDK 1.7 and Visual Studio Tools: 01:07:40 </li><li>Tip of the Week: 01:23:40 </li></ul><p>&nbsp;</p><p><strong>&nbsp;In the News:</strong></p><p>&nbsp;<a href="http://bit.ly/LearnWindowsAzureTNA2012%20"><img src="http://files.channel9.msdn.com/thumbnail/6bd5d311-965b-40a9-ba4f-48445ad9e315.jpg" alt=""></a></p><p>&nbsp;</p><p><strong><a href="http://bit.ly/LearnWindowsAzureTNA2012%20">Learn Windows Azure</a>. </strong>Watch LIVE online on Monday, June 11<sup>th</sup> as we broadcast from TechEd 2012 in Orlando.&nbsp;LEARN how to use the latest Windows Azure features and services to build, deploy, and manage applications in the cloud with sessions delivered by Microsoft technical leaders Scott Guthrie, Mark Russinovich, Quentin Clark, and Bill Staples! Join us in person at TechEd or <a href="http://bit.ly/LearnWindowsAzureTNA2012%20">register to watch online.</a></p><p><strong><span><a href="http://bit.ly/WindowsAzureDevCamps">Windows Azure DevCamps</a>.</span></strong> Windows Azure Developer Camps are free, fun, no-fluff events for developers, by developers.&nbsp; You learn from experts in a low-key, interactive way and then get hands-on time to apply what you've learned. <a href="http://bit.ly/WindowsAzureDevCamps">Register for an event </a>close to you today!</p><p><strong>Build the next great app at AngelHack – </strong><a href="http://blogs.msdn.com/b/windowsazure/archive/2012/05/21/build-the-next-great-app-at-angelhack-june-23-24-2012.aspx">learn more</a> on the Windows Azure blog.&nbsp; Prizes include $25,000 in seed capital and free Windows Azure for 12 months.&nbsp;</p><div>&nbsp;</div><p><a class="twitter-follow-button" href="https://twitter.com/cloudcovershow">Follow @CloudCoverShow</a><br><a class="twitter-follow-button" href="https://twitter.com/cloudnick">Follow @cloudnick</a><br><a class="twitter-follow-button" href="https://twitter.com/ntotten">Follow @ntotten</a><br><a class="twitter-follow-button" href="https://twitter.com/mwashamms">Follow @mwashamms</a></p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:fcaf2cf4239041d68931a068017be66f">]]></description>
+      <comments>http://channel9.msdn.com/Shows/Cloud+Cover/Episode-83-Windows-Azure-June-2012-Release</comments>
+      <itunes:summary>Join&amp;nbsp;Nate&amp;nbsp;and&amp;nbsp;Nick&amp;nbsp;each week as they cover Windows Azure. You can follow and interact with the show at&amp;nbsp;@CloudCoverShow.&amp;nbsp;In this episode Nathan Totten, Nick Harris, and Michael Washam introduce the newest features of the Windows Azure. Michael shows off the new portal and gives a demo of Windows Azure Virtual Machines and the new PowerShell Cmdlets. Nathan demos Windows Azure Web Sites and the CLI tools for OS X. And finally, Nick shows Windows Azure SDK 1.7 and the tools for Visual Studio 2012 as well as some updates with Windows Azure Cloud Services. This is a longer than normal episode, but it contains all kinds of exciting content.If you want to skip to specific content you can find what you are looking for at the following times:New Portal: 00:01:20 Windows Azure Virtual Machines: 00:09:00 PowerShell Cmdlets: 00:27:45 Windows Azure Web Sites: 00:36:42 OS X Command Line Tools: 00:57:36 Windows Azure SDK 1.7 and Visual Studio Tools: 01:07:40 Tip of the Week: 01:23:40 &amp;nbsp;&amp;nbsp;In the News:&amp;nbsp;&amp;nbsp;Learn Windows Azure. Watch LIVE online on Monday, June 11th as we broadcast from TechEd 2012 in Orlando.&amp;nbsp;LEARN how to use the latest Windows Azure features and services to build, deploy, and manage applications in the cloud with sessions delivered by Microsoft technical leaders Scott Guthrie, Mark Russinovich, Quentin Clark, and Bill Staples! Join us in person at TechEd or register to watch online.Windows Azure DevCamps. Windows Azure Developer Camps are free, fun, no-fluff events for developers, by developers.&amp;nbsp; You learn from experts in a low-key, interactive way and then get hands-on time to apply what you&#39;ve learned. Register for an event close to you today!Build the next great app at AngelHack – learn more on the Windows Azure blog.&amp;nbsp; Prizes include $25,000 in seed capital and free Windows Azure for 12 months.&amp;nbsp;&amp;nbsp;Follow @CloudCoverShowFollow @cloudnickFollow @ntottenFollow @mwashamms</itunes:summary>
+      <itunes:duration>5155</itunes:duration>
+      <link>http://channel9.msdn.com/Shows/Cloud+Cover/Episode-83-Windows-Azure-June-2012-Release</link>
+      <pubDate>Sat, 09 Jun 2012 14:19:39 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Shows/Cloud+Cover/Episode-83-Windows-Azure-June-2012-Release</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83.mp3" expression="full" duration="5155" fileSize="82491142" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83.mp4" expression="full" duration="5155" fileSize="494365676" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83.webm" expression="full" duration="5155" fileSize="165176234" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83.wma" expression="full" duration="5155" fileSize="41694543" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83.wmv" expression="full" duration="5155" fileSize="527396415" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83_high.mp4" expression="full" duration="5155" fileSize="1086738675" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83_mid.mp4" expression="full" duration="5155" fileSize="757234541" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83_Source.wmv" expression="full" duration="5155" fileSize="734003414" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83.ism/manifest" expression="full" duration="5155" fileSize="6036" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/413f/db6dfdf9-bba7-42da-b3e5-1d686204413f/CloudCover83.wmv" length="527396415" type="video/x-ms-wmv"/>
+      <dc:creator>Michael Washam, Nathan Totten, Nick Harris</dc:creator>
+      <itunes:author>Michael Washam, Nathan Totten, Nick Harris</itunes:author>
+      <slash:comments>1</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/Shows/Cloud+Cover/Episode-83-Windows-Azure-June-2012-Release/RSS</wfw:commentRss>
+      <category>Windows Azure</category>
+    </item>
+    <item>
+      <title>TWC9: Meet Windows Azure, 100,000 apps, Windows 8 eBooks, Big Data and more | This Week On Channel 9</title>
+      <description><![CDATA[<p>This week on Channel 9, Dan and Brian discuss the week's top developer news, including:</p><ul><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=27s">[0:27]</a>&nbsp;<a href="http://weblogs.asp.net/scottgu/archive/2012/06/07/meet-the-new-windows-azure.aspx">Meet the New Windows Azure</a> (Scott Guthrie) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=2m26s">[2:26]</a>&nbsp;<a href="http://blogs.msdn.com/b/windowsazure/archive/2012/06/06/announcing-new-windows-azure-services-to-deliver-hybrid-cloud.aspx">Announcing New Windows Azure Services to Deliver “Hybrid Cloud”</a> (Bill Laing), <a href="http://www.microsoft.com/en-us/download/details.aspx?id=29988&amp;WT.mc_id=rss_alldownloads_all">Windows Azure SDK for .NET - June 2012</a> </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=4m14s">[4:14]</a>&nbsp;<a href="http://thenextweb.com/mobile/2012/06/05/windows-phone-marketplace-hits-100000-applications-313-new-apps-added-daily">Windows Phone Marketplace hits 100,000 applications, 313 new apps added daily</a> (Robin Wauters) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=5m16s">[5:16]</a>&nbsp;<a href="http://blogs.msdn.com/b/jasonz/archive/2012/06/04/june-4th-whats-happening-around-visual-studio.aspx">June 4th What’s Happening Around Visual Studio</a> (Jason Zander) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=6m25s">[6:25]</a>&nbsp;<a href="http://blogs.msdn.com/b/visualstudio/archive/2012/06/04/setup-improvements-for-visual-studio.aspx">Setup Improvements for Visual Studio</a> (David Guyer) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=8m20s">[8:20]</a>&nbsp;<a href="http://blogs.msdn.com/b/bharry/archive/2012/05/31/a-community-for-storyboard-shapes.aspx">A Community for Storyboard Shapes</a> (Brian Harry) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=11m8s">[11:08]</a>&nbsp;<a href="http://blogs.msdn.com/b/microsoft_press/archive/2012/06/04/free-ebook-programming-windows-8-apps-with-html-css-and-javascript-first-preview.aspx">Free ebook: Programming Windows 8 Apps with HTML, CSS, and JavaScript (First Preview)</a>, <a href="http://blogs.msdn.com/b/microsoft_press/archive/2012/06/04/updated-sample-code-for-programming-windows-sixth-edition-consumer-preview-edition.aspx">Updated sample code for Programming Windows, Sixth Edition (Consumer Preview edition)</a> (Devon Musgrave) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=12m14s">[12:14]</a>&nbsp;<a href="http://blogs.microsoft.co.il/blogs/shair/archive/2012/06/03/upgrade-metro-app-from-beta-to-rc.aspx">Upgrade Metro App From CP To RC</a> (Shai Raiten), <a href="http://blogs.msdn.com/b/davedev/archive/2012/05/31/migrating-a-windows-8-metro-style-app-from-consumer-preview-to-release-preview.aspx">Migrating a Windows 8 Metro Style App from Consumer Preview to Release Preview</a> (Dave Isbitski) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=13m5s">[13:05]</a>&nbsp;<a href="http://www.microsoft.com/en-us/download/details.aspx?id=29984&amp;WT.mc_id=rss_alldownloads_all">Building Modern Mobile Web Apps – Reference Implementation</a> </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=13m57s">[13:57]</a>&nbsp;<a href="http://www.amazedsaint.com/2012/06/analyzing-some-big-data-using-c-azure.html">Analyzing some ‘Big’ Data Using C#, Azure And Apache Hadoop – A Stack Overflow .NET Namespace Popularity Finder</a>, <a href="http://www.amazedsaint.com/2012/06/top-500-msdn-links-from-stack-overflow.html">Top 500 MSDN Links from Stack Overflow Posts</a> (Anoop Madhusudanan) </li></ul><p><strong>Picks of the Week!</strong></p><ul><li>Brian's Pick of the Week: <a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=16m1s">[16:01]</a> <a href="http://coding.abel.nu/2012/06/programmer-time-translation-table/">Programmer Time Translation Table</a> (Anders Abel) </li><li>Dan's Pick of the Week: <a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-08-2012#time=17m8s">[17:08]</a>&nbsp;<a href="http://channel9.msdn.com/coding4fun/blog/Project-Detroit-and-BoxingBots-at-TechEd" target="_blank">Project Detroit, BoxingBots and Kinect at TechEd</a> (Brian Peek) </li></ul><p>&nbsp;</p><p><strong>Programming Note:</strong> Due to TechEd North America there will be no show next week (June 15th). If you're there, make sure you stop by and chat with team...</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:e90270f6205f40189966a06a00315f1e">]]></description>
+      <comments>http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-June-08-2012</comments>
+      <itunes:summary>This week on Channel 9, Dan and Brian discuss the week&#39;s top developer news, including:[0:27]&amp;nbsp;Meet the New Windows Azure (Scott Guthrie) [2:26]&amp;nbsp;Announcing New Windows Azure Services to Deliver “Hybrid Cloud” (Bill Laing), Windows Azure SDK for .NET - June 2012 [4:14]&amp;nbsp;Windows Phone Marketplace hits 100,000 applications, 313 new apps added daily (Robin Wauters) [5:16]&amp;nbsp;June 4th What’s Happening Around Visual Studio (Jason Zander) [6:25]&amp;nbsp;Setup Improvements for Visual Studio (David Guyer) [8:20]&amp;nbsp;A Community for Storyboard Shapes (Brian Harry) [11:08]&amp;nbsp;Free ebook: Programming Windows 8 Apps with HTML, CSS, and JavaScript (First Preview), Updated sample code for Programming Windows, Sixth Edition (Consumer Preview edition) (Devon Musgrave) [12:14]&amp;nbsp;Upgrade Metro App From CP To RC (Shai Raiten), Migrating a Windows 8 Metro Style App from Consumer Preview to Release Preview (Dave Isbitski) [13:05]&amp;nbsp;Building Modern Mobile Web Apps – Reference Implementation [13:57]&amp;nbsp;Analyzing some ‘Big’ Data Using C#, Azure And Apache Hadoop – A Stack Overflow .NET Namespace Popularity Finder, Top 500 MSDN Links from Stack Overflow Posts (Anoop Madhusudanan) Picks of the Week!Brian&#39;s Pick of the Week: [16:01] Programmer Time Translation Table (Anders Abel) Dan&#39;s Pick of the Week: [17:08]&amp;nbsp;Project Detroit, BoxingBots and Kinect at TechEd (Brian Peek) &amp;nbsp;Programming Note: Due to TechEd North America there will be no show next week (June 15th). If you&#39;re there, make sure you stop by and chat with team...</itunes:summary>
+      <itunes:duration>1153</itunes:duration>
+      <link>http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-June-08-2012</link>
+      <pubDate>Sat, 09 Jun 2012 03:56:06 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-June-08-2012</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012.mp3" expression="full" duration="1153" fileSize="18457914" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012.mp4" expression="full" duration="1153" fileSize="111674805" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012.webm" expression="full" duration="1153" fileSize="42386095" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012.wma" expression="full" duration="1153" fileSize="9335455" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012.wmv" expression="full" duration="1153" fileSize="127292403" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012_high.mp4" expression="full" duration="1153" fileSize="243042796" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012_mid.mp4" expression="full" duration="1153" fileSize="170165641" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012_Source.wmv" expression="full" duration="1153" fileSize="145454690" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012.ism/manifest" expression="full" duration="1153" fileSize="6046" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/40b0/c077e853-f017-4c48-8041-ce15a75e40b0/TWC9June82012.wmv" length="127292403" type="video/x-ms-wmv"/>
+      <dc:creator>Brian Keller, Dan Fernandez, Greg Duncan</dc:creator>
+      <itunes:author>Brian Keller, Dan Fernandez, Greg Duncan</itunes:author>
+      <slash:comments>2</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-June-08-2012/RSS</wfw:commentRss>
+      <category>C#</category>
+      <category>HTML5</category>
+      <category>JavaScript</category>
+      <category>Metro</category>
+      <category>Windows Azure</category>
+      <category>Windows Phone</category>
+      <category>visual stuido</category>
+      <category>Windows 8</category>
+    </item>
+    <item>
+      <title>Major Nelson&#39;s highlights from E3 2012 | E3 2012</title>
+      <description><![CDATA[<p>Xbox's Major Nelson talks to us to share what he really loved about E3 this year. Catch up on his favorites and find out what he found to be most exciting.</p><p>&nbsp;</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.sessionid=Session:RSSView:124abd7681564ba19eefa069014d59c7">]]></description>
+      <comments>http://channel9.msdn.com/Events/E3/E3-2012/Major-Nelson-s-highlights-from-E3-2012</comments>
+      <itunes:summary>Xbox&#39;s Major Nelson talks to us to share what he really loved about E3 this year. Catch up on his favorites and find out what he found to be most exciting.&amp;nbsp;</itunes:summary>
+      <itunes:duration>315</itunes:duration>
+      <link>http://channel9.msdn.com/Events/E3/E3-2012/Major-Nelson-s-highlights-from-E3-2012</link>
+      <pubDate>Sat, 09 Jun 2012 03:28:31 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Events/E3/E3-2012/Major-Nelson-s-highlights-from-E3-2012</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel_220.jpg" height="220" width="165"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel.mp3" expression="full" duration="315" fileSize="5054336" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel.mp4" expression="full" duration="315" fileSize="29811171" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel.webm" expression="full" duration="315" fileSize="11998182" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel.wma" expression="full" duration="315" fileSize="2561435" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel.wmv" expression="full" duration="315" fileSize="69703375" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel_high.mp4" expression="full" duration="315" fileSize="65365086" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel_mid.mp4" expression="full" duration="315" fileSize="45649804" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel_Source.wmv" expression="full" duration="315" fileSize="205186332" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel.ism/manifest" expression="full" duration="315" fileSize="8334" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/c92b/e617c573-383d-40f3-85d9-3c936f7cc92b/majnel.wmv" length="69703375" type="video/x-ms-wmv"/>
+      <dc:creator></dc:creator>
+      <itunes:author></itunes:author>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Manual Testing Of Windows 8 Metro Style Applications</title>
+      <description><![CDATA[<p>In this video, <a href="http://blogs.msdn.com/briankel">Brian Keller</a> will show you how you can use Microsoft Test Manager 2012 - part of the Visual Studio 2012 family of technologies - to test Metro style applications on Windows 8. When testing applications in this manner, Microsoft Test Manager will automatically capture rich diagnostics from the Windows 8 machine. This can include video of the tester interacting with the application, or a new rich action log which gets produced in HTML and shows &quot;tap by tap&quot; what the tester was doing leading up to the bug they encountered, making it easier for a developer to quickly understand the bug that the tester found and - most importantly - to get it fixed.</p><p><span><strong>What You'll Need:</strong></span></p><p><strong>Microsoft Test Manager 2012</strong> (included with the following SKU's of Visual Studio 2012):<br>- <a href="http://www.microsoft.com/visualstudio/11/en-us/testpro"><u>Visual Studio Test Professional 2012</u></a><br>- <a href="http://www.microsoft.com/visualstudio/11/en-us/premium"><u>Visual Studio Premium 2012</u></a><br>- <a href="http://www.microsoft.com/visualstudio/11/en-us/premium"><u>Visual Studio Ultimate 2012</u></a></p><p><strong>Team Foundation Server:</strong><br>-&nbsp;Hosted Team Foundation Service (<a href="http://www.tfspreview.com/"><u>http://www.tfspreview.com</u></a>)<br>- On-premises Team Foundation Server&nbsp;2012 (download the RC <a href="http://www.microsoft.com/visualstudio/11/en-us/downloads#tfs">here</a>, or <a href="http://www.microsoft.com/visualstudio/11/en-us/downloads#tfs-express2">here</a> for TFS Express)</p><p><strong>Windows 8<br>- </strong>Download the release preview <a href="http://windows.microsoft.com/en-US/windows-8/release-preview">here</a></p><p><strong>Configuration steps:</strong><br><a href="http://msdn.microsoft.com/en-us/library/hh405417(v=vs.110)">Setup steps</a> for configuring Microsoft Test Manager and your Windows 8 machine for remote testing.</p><p>I hope you will find this testing experience useful as you continue building great applications for Windows 8!</p><p>- Brian</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:b0e5ad5df97040e9a96ba04e01065b56">]]></description>
+      <comments>http://channel9.msdn.com/posts/Manual-Testing-Of-Windows-8-Metro-Style-Applications</comments>
+      <itunes:summary>In this video, Brian Keller will show you how you can use Microsoft Test Manager 2012 - part of the Visual Studio 2012 family of technologies - to test Metro style applications on Windows 8. When testing applications in this manner, Microsoft Test Manager will automatically capture rich diagnostics from the Windows 8 machine. This can include video of the tester interacting with the application, or a new rich action log which gets produced in HTML and shows &amp;quot;tap by tap&amp;quot; what the tester was doing leading up to the bug they encountered, making it easier for a developer to quickly understand the bug that the tester found and - most importantly - to get it fixed.What You&#39;ll Need:Microsoft Test Manager 2012 (included with the following SKU&#39;s of Visual Studio 2012):- Visual Studio Test Professional 2012- Visual Studio Premium 2012- Visual Studio Ultimate 2012Team Foundation Server:-&amp;nbsp;Hosted Team Foundation Service (http://www.tfspreview.com)- On-premises Team Foundation Server&amp;nbsp;2012 (download the RC here, or here for TFS Express)Windows 8- Download the release preview hereConfiguration steps:Setup steps for configuring Microsoft Test Manager and your Windows 8 machine for remote testing.I hope you will find this testing experience useful as you continue building great applications for Windows 8!- Brian</itunes:summary>
+      <itunes:duration>661</itunes:duration>
+      <link>http://channel9.msdn.com/posts/Manual-Testing-Of-Windows-8-Metro-Style-Applications</link>
+      <pubDate>Fri, 08 Jun 2012 01:28:29 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/posts/Manual-Testing-Of-Windows-8-Metro-Style-Applications</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps.mp3" expression="full" duration="661" fileSize="10592374" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps.mp4" expression="full" duration="661" fileSize="64259351" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps.webm" expression="full" duration="661" fileSize="4926" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps.wma" expression="full" duration="661" fileSize="5358159" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps.wmv" expression="full" duration="661" fileSize="68521451" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps_high.mp4" expression="full" duration="661" fileSize="140124392" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps_mid.mp4" expression="full" duration="661" fileSize="97999135" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps_Source.wmv" expression="full" duration="661" fileSize="139600890" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps.ism/manifest" expression="full" duration="661" fileSize="6286" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/a9d1/bc1b59e9-c912-4c7c-a12d-ba2513d9a9d1/ManualTestingofWindows8MetroStyleApps.wmv" length="68521451" type="video/x-ms-wmv"/>
+      <dc:creator>Brian Keller</dc:creator>
+      <itunes:author>Brian Keller</itunes:author>
+      <slash:comments>3</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/posts/Manual-Testing-Of-Windows-8-Metro-Style-Applications/rss</wfw:commentRss>
+      <category>Software Testing</category>
+      <category>Windows 8</category>
+      <category>Visual Studio 2012</category>
+    </item>
+    <item>
+      <title>SmartGlass at E3 2012 | E3 2012</title>
+      <description><![CDATA[<p>One of the biggest buzz makers this year was the announcement of Microsoft's SmartGlass. The technology incorporates all 3 screens and looks to revolutionize the way we interact with our movies and games. Check out this hands on demo!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.sessionid=Session:RSSView:c9cbb1eb056844bbac9da06901458a87">]]></description>
+      <comments>http://channel9.msdn.com/Events/E3/E3-2012/SmartGlass-at-E3-2012</comments>
+      <itunes:summary>One of the biggest buzz makers this year was the announcement of Microsoft&#39;s SmartGlass. The technology incorporates all 3 screens and looks to revolutionize the way we interact with our movies and games. Check out this hands on demo!</itunes:summary>
+      <itunes:duration>334</itunes:duration>
+      <link>http://channel9.msdn.com/Events/E3/E3-2012/SmartGlass-at-E3-2012</link>
+      <pubDate>Thu, 07 Jun 2012 23:34:00 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Events/E3/E3-2012/SmartGlass-at-E3-2012</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass_220.jpg" height="220" width="165"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass.mp3" expression="full" duration="334" fileSize="5353167" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass.mp4" expression="full" duration="334" fileSize="31707751" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass.webm" expression="full" duration="334" fileSize="12338018" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass.wma" expression="full" duration="334" fileSize="2711635" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass.wmv" expression="full" duration="334" fileSize="73207489" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass_high.mp4" expression="full" duration="334" fileSize="69573388" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass_mid.mp4" expression="full" duration="334" fileSize="48661138" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass_Source.wmv" expression="full" duration="334" fileSize="186449255" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass.ism/manifest" expression="full" duration="334" fileSize="8318" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/26e7/23913fa8-8395-48b6-9f32-1098083826e7/glass.wmv" length="73207489" type="video/x-ms-wmv"/>
+      <dc:creator></dc:creator>
+      <itunes:author></itunes:author>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>South Park: Trey Parker &amp; Matt Stone talk about &quot;The Stick of Truth&quot; | E3 2012</title>
+      <description><![CDATA[<p>Trey Parker and Matt Stone have worked tirelessly to create the best South Park game ever. Check out this interview where they discuss how their latest creation, The Stick of Truth came about.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.sessionid=Session:RSSView:f58e16f114c54b9eaf98a06801261b90">]]></description>
+      <comments>http://channel9.msdn.com/Events/E3/E3-2012/South-Park-Interview-with-Trey-Parker-Matt-Stone</comments>
+      <itunes:summary>Trey Parker and Matt Stone have worked tirelessly to create the best South Park game ever. Check out this interview where they discuss how their latest creation, The Stick of Truth came about.</itunes:summary>
+      <itunes:duration>198</itunes:duration>
+      <link>http://channel9.msdn.com/Events/E3/E3-2012/South-Park-Interview-with-Trey-Parker-Matt-Stone</link>
+      <pubDate>Wed, 06 Jun 2012 18:33:00 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Events/E3/E3-2012/South-Park-Interview-with-Trey-Parker-Matt-Stone</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark_220.jpg" height="220" width="165"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark.mp3" expression="full" duration="198" fileSize="3177311" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark.mp4" expression="full" duration="198" fileSize="19098112" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark.webm" expression="full" duration="198" fileSize="7762191" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark.wma" expression="full" duration="198" fileSize="1612171" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark.wmv" expression="full" duration="198" fileSize="41878673" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark_high.mp4" expression="full" duration="198" fileSize="42122338" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark_mid.mp4" expression="full" duration="198" fileSize="29397953" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark_Source.wmv" expression="full" duration="198" fileSize="47276542" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark.ism/manifest" expression="full" duration="198" fileSize="6006" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/7ad4/504144e7-0cc8-49ed-91c0-a27bd3147ad4/SouthPark.wmv" length="41878673" type="video/x-ms-wmv"/>
+      <dc:creator></dc:creator>
+      <itunes:author></itunes:author>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>Visual Studio Toolbox: SlowCheetah | Visual Studio Toolbox</title>
+      <description><![CDATA[<p>In this episode, Sayed Hashimi joins us to demonstrate <a href="http://visualstudiogallery.msdn.microsoft.com/69023d00-a4f9-4a34-a6cd-7e854ba318b5">SlowCheetah</a>, a Visual Studio extension that enables you to transform your app.config or any other XML file based on the build configuration—you can have both&nbsp;debug and release versions of your configuration files and swap between them when you run the application. No more changing configuration files at runtime, and no more worrying about if you are really using the right one.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:46f3e264331149648161a05c0128421a">]]></description>
+      <comments>http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Toolbox-SlowCheetah</comments>
+      <itunes:summary>In this episode, Sayed Hashimi joins us to demonstrate SlowCheetah, a Visual Studio extension that enables you to transform your app.config or any other XML file based on the build configuration—you can have both&amp;nbsp;debug and release versions of your configuration files and swap between them when you run the application. No more changing configuration files at runtime, and no more worrying about if you are really using the right one.</itunes:summary>
+      <itunes:duration>1558</itunes:duration>
+      <link>http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Toolbox-SlowCheetah</link>
+      <pubDate>Wed, 06 Jun 2012 15:35:07 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Toolbox-SlowCheetah</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38.mp3" expression="full" duration="1558" fileSize="24930998" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38.mp4" expression="full" duration="1558" fileSize="150886373" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38.webm" expression="full" duration="1558" fileSize="56769025" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38.wma" expression="full" duration="1558" fileSize="12603807" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38.wmv" expression="full" duration="1558" fileSize="152350827" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38_high.mp4" expression="full" duration="1558" fileSize="330353745" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38_mid.mp4" expression="full" duration="1558" fileSize="231018371" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38_Source.wmv" expression="full" duration="1558" fileSize="303892873" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/70c8/8b2c0b7d-5dc7-4cde-b268-dce0121370c8/VSToolbox38.wmv" length="152350827" type="video/x-ms-wmv"/>
+      <dc:creator>Robert Green, Golnaz</dc:creator>
+      <itunes:author>Robert Green, Golnaz</itunes:author>
+      <slash:comments>5</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-Toolbox-SlowCheetah/RSS</wfw:commentRss>
+      <category>Visual Studio 2010</category>
+    </item>
+    <item>
+      <title>GoingNative 9: LINQ for C/C++, Native Rx, Meet Aaron Lahman | C9::GoingNative</title>
+      <description>
+        <![CDATA[<p><a href="http://msdn.microsoft.com/en-us/library/bb397926(v=vs.110).aspx" target="_blank"><strong>LINQ</strong></a> is one of those modern technologies missing from the C&#43;&#43; toolbox. By extension,&nbsp;so&nbsp;is <a href="http://msdn.microsoft.com/en-us/data/gg577609.aspx" target="_blank"><strong>Rx (Reactive Extensions)</strong></a>, which of course is LINQ at its core... Well, today we're happy to announce that this is no longer the case. <strong>Erik Meijer's team is delivering on their promise of a native Rx</strong>. It's not available for download yet, but the work is being done and great progress has been made! Rock and roll. <br><br><strong>Aaron Lahman</strong> is the newest member of Erik Meijer's&nbsp;gang of stellar developers. Erik and team are cranking away&nbsp;at&nbsp;pushing LINQ <em>everywhere</em>.&nbsp;Here, we&nbsp;meet Aaron and geek out about <strong>C&#43;&#43; LINQ</strong> (it's a modern library... Aaron's not extending the language....) and <strong>RxC</strong> (that's C as in C (not C&#43;&#43;)—why C? Why not RxC&#43;&#43;? Does it really matter?...)</p><p>Here's a trivial example employing C&#43;&#43; LINQ:<pre class="brush: cpp">
+vector&lt;int&gt; some_primes(size_t howMany)
+{
+       auto xs = from(int_range(0, INT_MAX))
+                      .where(is_prime)
+                      .take(howMany);
+       return xs.to_vector();
+             // or: vector&lt;int&gt;(begin(xs), end(xs));
+}
+</pre></p><p><strong>Table of Contents</strong>:</p><p><a href="http://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-9-LINQ-for-C-Native-Rx-RxC-Meet-Aaron-Lahman#time=00m00s">[00:00]</a> GoingNative(); //Charles flies solo for this episode. Make sure you check out the sessions from <a href="http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp" target="_blank"><strong>Developing Windows 8 Metro style apps with C&#43;&#43;</strong> </a>event. This is the only place to learn (deeply) about <a href="http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/The-Windows-Runtime-Library-WRL-" target="_blank"><strong>WRL</strong></a> and<a href="http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Building-Apps-with-Cpp-XAML-and-DirectX" target="_blank"><strong> C&#43;&#43; &#43; XAML &#43; DX</strong></a>, for example. <a href="http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Cpp-for-the-Windows-Runtime" target="_blank"><strong>Herb Sutter's keynote</strong></a> is excellent, of course.</p><p><a href="http://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-9-LINQ-for-C-Native-Rx-RxC-Meet-Aaron-Lahman#time=03m00s">[03:00]</a> Charles interviews software developer&nbsp;<strong>Aaron Lahman. </strong>Aaron explains (whiteboard and demo included) the work&nbsp;he's&nbsp;doing building a <strong>LINQ library&nbsp;for&nbsp;C&#43;&#43;</strong> and <strong>Reactive Extensions for C</strong>. Aaron is great at explaining what he's doing (and why he's doing it).&nbsp;Thank you, Aaron!&nbsp;Go Rx!!</p><p><a href="http://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-9-LINQ-for-C-Native-Rx-RxC-Meet-Aaron-Lahman#time=39m58s">[39:58]</a> ~GoingNative();</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:8da8c9d56aac47db99a4a06300042ead">]]>
+      </description>
+      <comments>http://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-9-LINQ-for-C-Native-Rx-RxC-Meet-Aaron-Lahman</comments>
+      <itunes:summary>
+        LINQ is one of those modern technologies missing from the C&amp;#43;&amp;#43; toolbox. By extension,&amp;nbsp;so&amp;nbsp;is Rx (Reactive Extensions), which of course is LINQ at its core... Well, today we&#39;re happy to announce that this is no longer the case. Erik Meijer&#39;s team is delivering on their promise of a native Rx. It&#39;s not available for download yet, but the work is being done and great progress has been made! Rock and roll. Aaron Lahman is the newest member of Erik Meijer&#39;s&amp;nbsp;gang of stellar developers. Erik and team are cranking away&amp;nbsp;at&amp;nbsp;pushing LINQ everywhere.&amp;nbsp;Here, we&amp;nbsp;meet Aaron and geek out about C&amp;#43;&amp;#43; LINQ (it&#39;s a modern library... Aaron&#39;s not extending the language....) and RxC (that&#39;s C as in C (not C&amp;#43;&amp;#43;)—why C? Why not RxC&amp;#43;&amp;#43;? Does it really matter?...)Here&#39;s a trivial example employing C&amp;#43;&amp;#43; LINQ:
+        vector&amp;lt;int&amp;gt; some_primes(size_t howMany)
+        {
+        auto xs = from(int_range(0, INT_MAX))
+        .where(is_prime)
+        .take(howMany);
+        return xs.to_vector();
+        // or: vector&amp;lt;int&amp;gt;(begin(xs), end(xs));
+        }
+        Table of Contents:[00:00] GoingNative(); //Charles flies solo for this episode. Make sure you check out the sessions from Developing Windows 8 Metro style apps with C&amp;#43;&amp;#43; event. This is the only place to learn (deeply) about WRL and C&amp;#43;&amp;#43; &amp;#43; XAML &amp;#43; DX, for example. Herb Sutter&#39;s keynote is excellent, of course.[03:00] Charles interviews software developer&amp;nbsp;Aaron Lahman. Aaron explains (whiteboard and demo included) the work&amp;nbsp;he&#39;s&amp;nbsp;doing building a LINQ library&amp;nbsp;for&amp;nbsp;C&amp;#43;&amp;#43; and Reactive Extensions for C. Aaron is great at explaining what he&#39;s doing (and why he&#39;s doing it).&amp;nbsp;Thank you, Aaron!&amp;nbsp;Go Rx!![39:58] ~GoingNative();
+      </itunes:summary>
+      <itunes:duration>2437</itunes:duration>
+      <link>http://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-9-LINQ-for-C-Native-Rx-RxC-Meet-Aaron-Lahman</link>
+      <pubDate>Mon, 04 Jun 2012 19:18:01 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-9-LINQ-for-C-Native-Rx-RxC-Meet-Aaron-Lahman</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC.mp3" expression="full" duration="2437" fileSize="39009171" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC.mp4" expression="full" duration="2437" fileSize="232541522" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC.webm" expression="full" duration="2437" fileSize="89921090" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC.wma" expression="full" duration="2437" fileSize="19720283" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC.wmv" expression="full" duration="2437" fileSize="524964107" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC_high.mp4" expression="full" duration="2437" fileSize="509850354" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC_mid.mp4" expression="full" duration="2437" fileSize="356009661" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC_Source.wmv" expression="full" duration="2437" fileSize="879312092" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC.ism/manifest" expression="full" duration="2437" fileSize="7800" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/9c32/721b7705-7d1b-4a0e-a64d-1d4a14009c32/C9GoingNative9CppLINQRxC.wmv" length="524964107" type="video/x-ms-wmv"/>
+      <dc:creator>Charles</dc:creator>
+      <itunes:author>Charles</itunes:author>
+      <slash:comments>27</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/Shows/C9-GoingNative/GoingNative-9-LINQ-for-C-Native-Rx-RxC-Meet-Aaron-Lahman/RSS</wfw:commentRss>
+      <category>C++</category>
+      <category>LINQ</category>
+      <category>Reactive Extensions</category>
+      <category>C++11</category>
+      <category>_techmeme</category>
+    </item>
+    <item>
+      <title>Rowan Miller Demonstrates Entity Framework 5 Using ASP.NET MVC 4 | Web Camps TV</title>
+      <description><![CDATA[<p>In this episode, Rowan Miller shows you how to get started using his team's latest release, Entity Framework 5. Using a new ASP.NET MVC 4 project, he creates a database using code, then scaffolds an ASP.NET MVC 4 web site to enter and view data from the database. Using the new Migrations features of EF, he then adds some setup and teardown logic and changes the schema. Near the end, the new spatial data features of EF5 are used to demonstrate a geographical search feature, wherein he sorts a series of records in the database according to their proximity to his office. These new spatial features alone make this an exciting episode. Come check out EF5 and see how to use it in your ASP.NET MVC 4 applications today.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:42d5a89e72b04b53a844a062016b498d">]]></description>
+      <comments>http://channel9.msdn.com/Shows/Web+Camps+TV/Rowan-Miller-Demonstrates-Entity-Framework-5-Using-ASPNET-MVC-4</comments>
+      <itunes:summary>In this episode, Rowan Miller shows you how to get started using his team&#39;s latest release, Entity Framework 5. Using a new ASP.NET MVC 4 project, he creates a database using code, then scaffolds an ASP.NET MVC 4 web site to enter and view data from the database. Using the new Migrations features of EF, he then adds some setup and teardown logic and changes the schema. Near the end, the new spatial data features of EF5 are used to demonstrate a geographical search feature, wherein he sorts a series of records in the database according to their proximity to his office. These new spatial features alone make this an exciting episode. Come check out EF5 and see how to use it in your ASP.NET MVC 4 applications today.</itunes:summary>
+      <itunes:duration>2408</itunes:duration>
+      <link>http://channel9.msdn.com/Shows/Web+Camps+TV/Rowan-Miller-Demonstrates-Entity-Framework-5-Using-ASPNET-MVC-4</link>
+      <pubDate>Mon, 04 Jun 2012 16:58:57 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Shows/Web+Camps+TV/Rowan-Miller-Demonstrates-Entity-Framework-5-Using-ASPNET-MVC-4</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET.mp3" expression="full" duration="2408" fileSize="38543566" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET.mp4" expression="full" duration="2408" fileSize="232953845" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET.webm" expression="full" duration="2408" fileSize="83403801" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET.wma" expression="full" duration="2408" fileSize="19482967" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET.wmv" expression="full" duration="2408" fileSize="212707933" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET_high.mp4" expression="full" duration="2408" fileSize="508929151" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET_mid.mp4" expression="full" duration="2408" fileSize="356430931" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET_Source.wmv" expression="full" duration="2408" fileSize="542196692" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET.ism/manifest" expression="full" duration="2408" fileSize="6406" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/83ee/91ab5ceb-71e9-4945-ac4a-45b96a0983ee/RowanMillerDemonstratesEntityFramework5withASPNET.wmv" length="212707933" type="video/x-ms-wmv"/>
+      <dc:creator>Brady Gaster</dc:creator>
+      <itunes:author>Brady Gaster</itunes:author>
+      <slash:comments>3</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/Shows/Web+Camps+TV/Rowan-Miller-Demonstrates-Entity-Framework-5-Using-ASPNET-MVC-4/RSS</wfw:commentRss>
+      <category>ASP.NET MVC</category>
+      <category>Entity Framework</category>
+    </item>
+    <item>
+      <title>Casablanca | Developing Windows 8 Metro style apps with C++</title>
+      <description><![CDATA[<p><a href="http://msdn.microsoft.com/en-us/devlabs/hh974325" target="_blank"><strong>Casablanca</strong></a> is an incubation project available on MSDN DevLabs. Its primary purpose is to explore how to access and author REST services in modern C&#43;&#43; using best practices such as asynchronous operations to achieve responsiveness in clients and scalability in service code.<br><br>[This session was pre-recorded]</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.sessionid=Session:RSSView:ced0f72b13e64faaa35ea052002b96e4">]]></description>
+      <comments>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Casablanca</comments>
+      <itunes:summary>Casablanca is an incubation project available on MSDN DevLabs. Its primary purpose is to explore how to access and author REST services in modern C&amp;#43;&amp;#43; using best practices such as asynchronous operations to achieve responsiveness in clients and scalability in service code.[This session was pre-recorded]</itunes:summary>
+      <itunes:duration>1804</itunes:duration>
+      <link>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Casablanca</link>
+      <pubDate>Tue, 05 Jun 2012 02:45:00 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Casablanca</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca_220.jpg" height="220" width="165"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca.mp3" expression="full" duration="1804" fileSize="28873538" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca.mp4" expression="full" duration="1804" fileSize="166116527" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca.webm" expression="full" duration="1804" fileSize="4869" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca.wma" expression="full" duration="1804" fileSize="14598463" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca.wmv" expression="full" duration="1804" fileSize="74160307" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca_high.mp4" expression="full" duration="1804" fileSize="384824433" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca_mid.mp4" expression="full" duration="1804" fileSize="269395904" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca_Source.wmv" expression="full" duration="1804" fileSize="140231569" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca.ism/manifest" expression="full" duration="1804" fileSize="6136" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/a128/ece102fe-b39f-4696-a2b0-48956024a128/Win8CppEventCasablanca.wmv" length="74160307" type="video/x-ms-wmv"/>
+      <dc:creator>Niklas Gustafsson</dc:creator>
+      <itunes:author>Niklas Gustafsson</itunes:author>
+      <slash:comments>0</slash:comments>
+      <category>C++</category>
+    </item>
+    <item>
+      <title>TechEd Quick Shot - Mark Russinovich</title>
+      <description><![CDATA[<p>TechEd attendees (in both North America and Europe) are in for a treat. Mark Russinovich is a rock star when it comes to digging into the internal workings of the system. His talks are always well attended, and rich with deep technical information. At TechEd this year&nbsp;he will be doing several great sessions that will focus on Windows Azure, Security, and Windows Internals.</p><ul><li><a href="http://northamerica.msteched.com/speaker/details/9656fc58-7dfe-df11-82f7-001ec953730b" target="_blank">Mark's TechEd North America Sessions</a> </li><li><a href="http://europe.msteched.com/Sessions/Speaker/Mark-Russinovich" target="_blank">Mark's TechEd Europe Sessions</a> </li></ul><p>&nbsp;</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:a31fc1aa700747468fe1a06900014255">]]></description>
+      <comments>http://channel9.msdn.com/posts/TechEd-Quick-Shot-Mark-Russinovich</comments>
+      <itunes:summary>TechEd attendees (in both North America and Europe) are in for a treat. Mark Russinovich is a rock star when it comes to digging into the internal workings of the system. His talks are always well attended, and rich with deep technical information. At TechEd this year&amp;nbsp;he will be doing several great sessions that will focus on Windows Azure, Security, and Windows Internals.Mark&#39;s TechEd North America Sessions Mark&#39;s TechEd Europe Sessions &amp;nbsp;</itunes:summary>
+      <itunes:duration>47</itunes:duration>
+      <link>http://channel9.msdn.com/posts/TechEd-Quick-Shot-Mark-Russinovich</link>
+      <pubDate>Thu, 07 Jun 2012 15:15:48 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/posts/TechEd-Quick-Shot-Mark-Russinovich</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics.mp3" expression="full" duration="47" fileSize="765680" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics.mp4" expression="full" duration="47" fileSize="4585015" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics.webm" expression="full" duration="47" fileSize="1833069" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics.wma" expression="full" duration="47" fileSize="395551" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics.wmv" expression="full" duration="47" fileSize="8613767" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics_high.mp4" expression="full" duration="47" fileSize="10153215" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics_mid.mp4" expression="full" duration="47" fileSize="7099738" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics_Source.wmv" expression="full" duration="47" fileSize="16918783" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics.ism/manifest" expression="full" duration="47" fileSize="7842" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/e5fa/2dd3ea91-cf12-4ea5-962c-ac81bed1e5fa/MarkRussinovichTechEdTopics.wmv" length="8613767" type="video/x-ms-wmv"/>
+      <dc:creator>Charles, Robert Hess</dc:creator>
+      <itunes:author>Charles, Robert Hess</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/posts/TechEd-Quick-Shot-Mark-Russinovich/rss</wfw:commentRss>
+      <category>Mark Russinovich</category>
+      <category>Security</category>
+      <category>sysinternals</category>
+      <category>Windows Azure</category>
+    </item>
+    <item>
+      <title>Developing Windows 8 Metro style apps with C++: Expert Panel | Developing Windows 8 Metro style apps with C++</title>
+      <description><![CDATA[<p><strong>Chas Boyd, Sridhar Madhugiri,&nbsp; Lukasz Chodorski, Rahul V. Patil, Geni Fernandes, Jim Hogg&nbsp;</strong>and<strong> Jesse Bishop</strong> answer questions from the audience ( both on premise and in the cloud <img src="http://ecn.channel9.msdn.com/o9/content/images/emoticons/emotion-1.gif?v=c9" alt="Smiley"> )</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.sessionid=Session:RSSView:4f9442ca01ec4de58332a052002b0c9a">]]></description>
+      <comments>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Interactive-Panel-2</comments>
+      <itunes:summary>Chas Boyd, Sridhar Madhugiri,&amp;nbsp; Lukasz Chodorski, Rahul V. Patil, Geni Fernandes, Jim Hogg&amp;nbsp;and Jesse Bishop answer questions from the audience ( both on premise and in the cloud  )</itunes:summary>
+      <itunes:duration>2925</itunes:duration>
+      <link>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Interactive-Panel-2</link>
+      <pubDate>Wed, 06 Jun 2012 20:30:00 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Interactive-Panel-2</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2_220.jpg" height="220" width="165"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2.mp3" expression="full" duration="2925" fileSize="46804279" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2.mp4" expression="full" duration="2925" fileSize="276647879" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2.webm" expression="full" duration="2925" fileSize="4879" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2.wma" expression="full" duration="2925" fileSize="23658527" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2.wmv" expression="full" duration="2925" fileSize="640135029" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2_high.mp4" expression="full" duration="2925" fileSize="607833724" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2_mid.mp4" expression="full" duration="2925" fileSize="424360441" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2_Source.wmv" expression="full" duration="2925" fileSize="1059107794" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/ea97/879f9198-1c5f-426a-9ce9-f2468b95ea97/InteractivePanel2.wmv" length="640135029" type="video/x-ms-wmv"/>
+      <dc:creator>Chas Boyd, Rahul V. Patil, Jim Hogg, Sridhar Madhugiri, Jesse Bishop, Genevieve Fernandes, Lukasz Chodorski</dc:creator>
+      <itunes:author>Chas Boyd, Rahul V. Patil, Jim Hogg, Sridhar Madhugiri, Jesse Bishop, Genevieve Fernandes, Lukasz Chodorski</itunes:author>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>Office 911: Unify Domains with Office 365 | Office 911</title>
+      <description><![CDATA[<p>If you've got a bazillion different domains from all kinds of services, Office 365 has a better way to bring it all together and give your customers an easy way to interact with you.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:40bbea9d2b384aa58878a06801277b77">]]></description>
+      <comments>http://channel9.msdn.com/Series/Office/Office-911-Unify-Domains</comments>
+      <itunes:summary>If you&#39;ve got a bazillion different domains from all kinds of services, Office 365 has a better way to bring it all together and give your customers an easy way to interact with you.</itunes:summary>
+      <itunes:duration>170</itunes:duration>
+      <link>http://channel9.msdn.com/Series/Office/Office-911-Unify-Domains</link>
+      <pubDate>Wed, 06 Jun 2012 20:06:01 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Series/Office/Office-911-Unify-Domains</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify.mp3" expression="full" duration="170" fileSize="2735685" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify.mp4" expression="full" duration="170" fileSize="16414109" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify.webm" expression="full" duration="170" fileSize="6949796" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify.wma" expression="full" duration="170" fileSize="1389875" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify.wmv" expression="full" duration="170" fileSize="36806505" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify_high.mp4" expression="full" duration="170" fileSize="36288456" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify_mid.mp4" expression="full" duration="170" fileSize="25320554" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify_Source.wmv" expression="full" duration="170" fileSize="152257459" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify.ism/manifest" expression="full" duration="170" fileSize="8366" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/12c6/267e0ad9-3e81-4ba0-ba12-478b94b512c6/911Unify.wmv" length="36806505" type="video/x-ms-wmv"/>
+      <dc:creator>Laura Foy</dc:creator>
+      <itunes:author>Laura Foy</itunes:author>
+      <slash:comments>0</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/Series/Office/Office-911-Unify-Domains/RSS</wfw:commentRss>
+      <category>Microsoft Office</category>
+      <category>unified communicatio</category>
+      <category>Office 365</category>
+    </item>
+    <item>
+      <title>TWC9: Windows 8 Release Preview, Visual Studio 2012 RC, Storyboards, HTML5 and more | This Week On Channel 9</title>
+      <description><![CDATA[<p>This week on Channel 9, Clint and Rick discuss the week's top developer news, including:</p><ul><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=27s">[0:27]</a>&nbsp;<a href="http://windows.microsoft.com/en-US/windows-8/release-preview">Windows 8 Release Preview</a> </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=1m28s">[1:28]</a>&nbsp;<a href="http://www.microsoft.com/visualstudio/11/en-us">Visual Studio 2012 Release Candidate is here</a> </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=3m4s">[3:04]</a>&nbsp;<a href="http://blogs.msdn.com/b/visualstudio/archive/2012/05/30/welcome-to-the-developer-tools-blog-network.aspx">Welcome to the Developer Tools Blog Network</a> (Lisa Feigenbaum) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=4m59s">[4:59]</a>&nbsp;<a href="http://blogs.msdn.com/b/jasonz/archive/2012/05/24/my-favorite-features-creating-storyboards-with-powerpoint.aspx">My Favorite Features: Creating Storyboards with PowerPoint</a> (Jason Zander) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=6m29s">[6:29]</a>&nbsp;<a href="http://blogs.msdn.com/b/windowsappdev/archive/2012/05/24/being-productive-in-the-background-background-tasks.aspx">Being productive in the background – background tasks</a> (Hari Pulapaka) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=8m29s">[8:29]</a>&nbsp;<a href="http://blogs.msdn.com/b/usisvde/archive/2012/05/29/getting-started-on-line-of-business-html5-app-part-4-using-modernizr-polyfills-yepnope.aspx">Getting Started on Line-of-Business HTML5 App – Part 4 Using Modernizr, Polyfills, YepNope</a> (Bruce Kyle) </li><li><a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=10m41s">[10:41]</a>&nbsp;<a href="http://channel9.msdn.com/Shows/Web&#43;Camps&#43;TV/Howard-Dierking-Shows-You-How-to-Optimize-Your-ASPNET-Sites">Howard Dierking Shows You How to Optimize Your ASP.NET Sites</a> (Brady Gaster, Howard Dierking) </li></ul><p><strong>Picks of the Week!</strong></p><ul><li>Rick's Pick of the Week: <a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=11m20s">[11:20]</a>&nbsp;<a href="http://www.codeproject.com/Articles/167763/Fun-with-HTML5-Canvas-WebSocket-JQuery-and-ASP-NET">Fun with HTML5 Canvas, WebSocket, JQuery and ASP.NET. End-result: A live white board on a web page!</a> (Al-Farooque Shubho) </li><li>Clint's Pick of the Week: <a href="http://channel9.msdn.com/Shows/This&#43;Week&#43;On&#43;Channel&#43;9/TWC9-June-01-2012#time=12m47s">[12:47]</a>&nbsp;<a href="http://channel9.msdn.com/coding4fun/kinect/Occlusion-detection-and-virtual-object-manipulation-with-the-Kinect" target="_blank">Occlusion detection and virtual object manipulation with the Kinect</a> </li></ul> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:e757b3cc8284490e94eaa063000b596b">]]></description>
+      <comments>http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-June-01-2012</comments>
+      <itunes:summary>This week on Channel 9, Clint and Rick discuss the week&#39;s top developer news, including:[0:27]&amp;nbsp;Windows 8 Release Preview [1:28]&amp;nbsp;Visual Studio 2012 Release Candidate is here [3:04]&amp;nbsp;Welcome to the Developer Tools Blog Network (Lisa Feigenbaum) [4:59]&amp;nbsp;My Favorite Features: Creating Storyboards with PowerPoint (Jason Zander) [6:29]&amp;nbsp;Being productive in the background – background tasks (Hari Pulapaka) [8:29]&amp;nbsp;Getting Started on Line-of-Business HTML5 App – Part 4 Using Modernizr, Polyfills, YepNope (Bruce Kyle) [10:41]&amp;nbsp;Howard Dierking Shows You How to Optimize Your ASP.NET Sites (Brady Gaster, Howard Dierking) Picks of the Week!Rick&#39;s Pick of the Week: [11:20]&amp;nbsp;Fun with HTML5 Canvas, WebSocket, JQuery and ASP.NET. End-result: A live white board on a web page! (Al-Farooque Shubho) Clint&#39;s Pick of the Week: [12:47]&amp;nbsp;Occlusion detection and virtual object manipulation with the Kinect </itunes:summary>
+      <itunes:duration>876</itunes:duration>
+      <link>http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-June-01-2012</link>
+      <pubDate>Sat, 02 Jun 2012 02:47:29 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-June-01-2012</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012_100.jpg" height="56" width="100"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012_220.jpg" height="123" width="220"/>
+      <media:thumbnail url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012_512.jpg" height="288" width="512"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012.mp3" expression="full" duration="876" fileSize="14033726" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012.mp4" expression="full" duration="876" fileSize="83827839" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012.webm" expression="full" duration="876" fileSize="32340627" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012.wma" expression="full" duration="876" fileSize="7097475" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012.wmv" expression="full" duration="876" fileSize="110922741" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012_high.mp4" expression="full" duration="876" fileSize="184012510" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012_mid.mp4" expression="full" duration="876" fileSize="128580004" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012_Source.wmv" expression="full" duration="876" fileSize="136987986" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012.ism/manifest" expression="full" duration="876" fileSize="6046" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/bf56/9f2d9bb7-2d27-489d-a7a9-4c0e9685bf56/TWC9May312012.wmv" length="110922741" type="video/x-ms-wmv"/>
+      <dc:creator>Clint Rutkas, Greg Duncan, Rick Barraza</dc:creator>
+      <itunes:author>Clint Rutkas, Greg Duncan, Rick Barraza</itunes:author>
+      <slash:comments>11</slash:comments>
+      <wfw:commentRss>http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-June-01-2012/RSS</wfw:commentRss>
+      <category>ASP.NET</category>
+      <category>HTML 5</category>
+      <category>HTML5</category>
+      <category>Visual Studio</category>
+      <category>Windows 8</category>
+      <category>Kinect SDK</category>
+    </item>
+    <item>
+      <title>Porting a desktop app to a Metro style app | Developing Windows 8 Metro style apps with C++</title>
+      <description><![CDATA[<p>What does it take to port a desktop app to Metro? Learn about the common issues when porting and techniques to help address them.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.sessionid=Session:RSSView:26d73d3b31e24b99be2ca052002632e0">]]></description>
+      <comments>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Porting-a-desktop-app-to-a-Metro-style-app</comments>
+      <itunes:summary>What does it take to port a desktop app to Metro? Learn about the common issues when porting and techniques to help address them.</itunes:summary>
+      <itunes:duration>2038</itunes:duration>
+      <link>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Porting-a-desktop-app-to-a-Metro-style-app</link>
+      <pubDate>Sat, 02 Jun 2012 21:15:00 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Porting-a-desktop-app-to-a-Metro-style-app</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar_220.jpg" height="220" width="165"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar.mp3" expression="full" duration="2038" fileSize="32611011" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar.mp4" expression="full" duration="2038" fileSize="201659139" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar.webm" expression="full" duration="2038" fileSize="4901" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar.wma" expression="full" duration="2038" fileSize="16484975" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar.wmv" expression="full" duration="2038" fileSize="224289707" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar_high.mp4" expression="full" duration="2038" fileSize="462732709" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar_mid.mp4" expression="full" duration="2038" fileSize="320437755" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar_Source.wmv" expression="full" duration="2038" fileSize="627314935" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar.ism/manifest" expression="full" duration="2038" fileSize="7856" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/629b/8a8b8360-b6e5-4159-9ba1-3fbbdca7629b/PortingDesktopToMetroSridhar.wmv" length="224289707" type="video/x-ms-wmv"/>
+      <dc:creator>Sridhar Madhugiri</dc:creator>
+      <itunes:author>Sridhar Madhugiri</itunes:author>
+      <slash:comments>0</slash:comments>
+      <category>Windows 8</category>
+      <category>C++</category>
+      <category>Metro</category>
+    </item>
+    <item>
+      <title>C++ and DirectX for Metro Style Games | Developing Windows 8 Metro style apps with C++</title>
+      <description><![CDATA[<p>DirectX, the most popular 3-D game API, is directly accessible by Windows 8 metro-style applications in C&#43;&#43;. If you have a C&#43;&#43;/Direct3D codebase, or want to create a 3-D game, this talk will show you how to use C&#43;&#43; and DirectX&nbsp;to build&nbsp;metro-style apps. You will also&nbsp;learn&nbsp;about new Windows 8 metro features like process lifetime management, CoreWindow, asynchronous execution, live tiles, and display rotation, and the latest 'best practices' for their use&nbsp;from the perspective of C&#43;&#43;/DirectX game development.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.sessionid=Session:RSSView:1c0537a136dd4702bc6aa05200283fe8">]]></description>
+      <comments>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Cpp-and-DirectX-for-Metro-Style-Games</comments>
+      <itunes:summary>DirectX, the most popular 3-D game API, is directly accessible by Windows 8 metro-style applications in C&amp;#43;&amp;#43;. If you have a C&amp;#43;&amp;#43;/Direct3D codebase, or want to create a 3-D game, this talk will show you how to use C&amp;#43;&amp;#43; and DirectX&amp;nbsp;to build&amp;nbsp;metro-style apps. You will also&amp;nbsp;learn&amp;nbsp;about new Windows 8 metro features like process lifetime management, CoreWindow, asynchronous execution, live tiles, and display rotation, and the latest &#39;best practices&#39; for their use&amp;nbsp;from the perspective of C&amp;#43;&amp;#43;/DirectX game development.</itunes:summary>
+      <itunes:duration>3966</itunes:duration>
+      <link>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Cpp-and-DirectX-for-Metro-Style-Games</link>
+      <pubDate>Wed, 30 May 2012 16:30:00 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Cpp-and-DirectX-for-Metro-Style-Games</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/9169/25c9f3ce-5ab4-4862-9391-5f0473079169/CppAndDirectXforMetroGames_220.jpg" height="220" width="165"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy.mp3" expression="full" duration="3966" fileSize="63466426" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy.mp4" expression="full" duration="3966" fileSize="390456822" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy.webm" expression="full" duration="3966" fileSize="4896" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy.wma" expression="full" duration="3966" fileSize="32078739" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy.wmv" expression="full" duration="3966" fileSize="451933281" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy_high.mp4" expression="full" duration="3966" fileSize="867027650" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy_mid.mp4" expression="full" duration="3966" fileSize="607590166" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy_Source.wmv" expression="full" duration="3966" fileSize="1737174923" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://smooth.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy.ism/manifest" expression="full" duration="3966" fileSize="9006" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/b9db/36816305-b6d8-47bc-a7e0-1dbeec98b9db/CPPandDirectXforMetroStyleGamesChasBoydMattSandy.wmv" length="451933281" type="video/x-ms-wmv"/>
+      <dc:creator>Chas Boyd, Matt Sandy</dc:creator>
+      <itunes:author>Chas Boyd, Matt Sandy</itunes:author>
+      <slash:comments>5</slash:comments>
+      <category>C++</category>
+      <category>Metro</category>
+      <category>DirectX</category>
+    </item>
+    <item>
+      <title>Async made simple with C++ PPL | Developing Windows 8 Metro style apps with C++</title>
+      <description><![CDATA[<p>The new Windows Runtime is adopting a heavily asynchronous programming model to ensure the responsiveness of Windows 8 client apps. This makes it more critical than ever to have great support for asynchronous programming in C&#43;&#43;. Learn about the PPL async library innovations and how these features come together with new Windows Runtime APIs to simplify asynchronous programming.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=http://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.sessionid=Session:RSSView:5283278c24224fbab8f5a052002a4d61">]]></description>
+      <comments>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Async-made-simple-with-Cpp-PPL</comments>
+      <itunes:summary>The new Windows Runtime is adopting a heavily asynchronous programming model to ensure the responsiveness of Windows 8 client apps. This makes it more critical than ever to have great support for asynchronous programming in C&amp;#43;&amp;#43;. Learn about the PPL async library innovations and how these features come together with new Windows Runtime APIs to simplify asynchronous programming.</itunes:summary>
+      <itunes:duration>2126</itunes:duration>
+      <link>http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Async-made-simple-with-Cpp-PPL</link>
+      <pubDate>Mon, 28 May 2012 19:00:00 GMT</pubDate>
+      <guid isPermaLink="false">http://channel9.msdn.com/Events/Windows-Camp/Developing-Windows-8-Metro-style-apps-in-Cpp/Async-made-simple-with-Cpp-PPL</guid>
+      <media:thumbnail url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL_220.jpg" height="220" width="165"/>
+      <media:group>
+        <media:content url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL.mp3" expression="full" duration="2126" fileSize="34022726" type="audio/mp3" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL.mp4" expression="full" duration="2126" fileSize="203839173" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL.webm" expression="full" duration="2126" fileSize="4889" type="video/webm" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL.wma" expression="full" duration="2126" fileSize="17202931" type="audio/x-ms-wma" medium="audio"/>
+        <media:content url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL.wmv" expression="full" duration="2126" fileSize="193442241" type="video/x-ms-wmv" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL_high.mp4" expression="full" duration="2126" fileSize="444747663" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL_mid.mp4" expression="full" duration="2126" fileSize="311076378" type="video/mp4" medium="video"/>
+        <media:content url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL_Source.wmv" expression="full" duration="2126" fileSize="723186465" type="video/x-ms-wmv" medium="video"/>
+      </media:group>
+      <enclosure url="http://media.ch9.ms/ch9/e756/74d3f27e-88c5-423c-a383-1ab434e2e756/AsyncMadeSimplewithCPPL.wmv" length="193442241" type="video/x-ms-wmv"/>
+      <dc:creator>Rahul V. Patil, Genevieve Fernandes</dc:creator>
+      <itunes:author>Rahul V. Patil, Genevieve Fernandes</itunes:author>
+      <slash:comments>6</slash:comments>
+    </item>
+  </channel>
+</rss>
